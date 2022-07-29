@@ -11,3 +11,6 @@ a collection of tools and interesting stuff that I'm collecting
 
 - May 2021
   - [Remotion: Create Videos and Motion Graphics with React](https://javascriptweekly.com/link/103112/2266cf1114)
+
+- Summer 2022
+  - [Aspect, build React components](https://aspect.app/project/-N88U-jmQ1F5LkuEZjEe)
