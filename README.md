@@ -14,4 +14,4 @@ a collection of tools and interesting stuff that I'm collecting
 
 - Summer 2022
   - [Aspect, build React components](https://aspect.app/project/-N88U-jmQ1F5LkuEZjEe)
-  - [Lesser-Known And Underused CSS Features In 2022] (https://www.smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/)
+  - [Lesser-Known And Underused CSS Features In 2022](https://www.smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/)
