@@ -23,6 +23,17 @@ a collection of tools and interesting stuff that I'm collecting
   - [Tweakpane 3.1: Compact UI Element for Tweaking Parameters and Viewing Value Changes](https://cocopon.github.io/tweakpane/)
   - [Fireworks!](https://fireworks.js.org/)
   - [3D css effects](https://atroposjs.com/)
+  - [90's tv](https://my90stv.com/#uZeR--vr_sc)
+  - [automate web actions with web bots](https://axiom.ai/)
+  - [Drive and listen](https://drivenlisten.com/#)
+  - [walk on cities](https://citywalks.live/)
+  - [Open a window somewhere in the world](https://www.window-swap.com/Window)
+  - [Open source alternatives](https://www.opensourcealternative.to/)
+  - [several tools for problem solving](https://tinywow.com/)
+  - [Answer questions using AI](https://www.wolframalpha.com/)
+  - [Scale of things in the universe](https://www.htwins.net/scale2/)
+  - [Crowdsourced emotional spoilers for movies, tv, books and more.](https://www.doesthedogdie.com/)
+  - [Internet Stats](https://www.internetlivestats.com/)
   
 - Reading
   - [Reading the React codebase](https://alexkondov.com/readint-source-code-react/)
@@ -31,3 +42,4 @@ a collection of tools and interesting stuff that I'm collecting
   - [Figma's CSS](https://ishadeed.com/article/figma-css/)
   - [Use Firefox for accessibility testing](https://www.a11yproject.com/posts/using-firefox-for-accessibility-testing/)
   - [Javascript developer errors](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
+  - [Better programming productivity](https://dev.to/chainguns/better-programming-productivity-techniques-and-attitude-19n)
