@@ -34,6 +34,8 @@ a collection of tools and interesting stuff that I'm collecting
   - [Scale of things in the universe](https://www.htwins.net/scale2/)
   - [Crowdsourced emotional spoilers for movies, tv, books and more.](https://www.doesthedogdie.com/)
   - [Internet Stats](https://www.internetlivestats.com/)
+  - [js1024 winners](https://js1024.fun/results/2022)
+  - [Nativefier](https://github.com/nativefier/nativefier)
   
 - Reading
   - [Reading the React codebase](https://alexkondov.com/readint-source-code-react/)
