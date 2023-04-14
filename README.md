@@ -48,5 +48,7 @@ a collection of tools and interesting stuff that I'm collecting
   
 - Summer 2023
   - [Deep Cloning Objects in JavaScript](https://www.builder.io/blog/structured-clone)
-  - [Astro 2.0 ](https://astro.build/blog/astro-2/)
-    - a popular web framework for building performant, content-focused websites. Our next-gen frontend architecture (known as Astro Islands) can optimize your site to load 33% faster with 90% less JavaScript using the UI frameworks you already love like React, Svelte, and Vue.
+  - [Astro 2.0  a popular web framework for building performant](https://astro.build/blog/astro-2/)
+  - [Shoelace, A forward-thinking library of web components.](https://shoelace.style/getting-started/usage)
+  - [Getting started with the SvelteKit](https://css-tricks.com/getting-started-with-sveltekit/)
+  - [Eleventy, a flexible and production-ready site generator known for its zero-client-JavaScript footprint, speedy sites, speedy builds, and full control over the output ](https://www.11ty.dev/blog/eleventy-v2-beta/)
