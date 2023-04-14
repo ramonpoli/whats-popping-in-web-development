@@ -52,3 +52,4 @@ a collection of tools and interesting stuff that I'm collecting
   - [Shoelace, A forward-thinking library of web components.](https://shoelace.style/getting-started/usage)
   - [Getting started with the SvelteKit](https://css-tricks.com/getting-started-with-sveltekit/)
   - [Eleventy, a flexible and production-ready site generator known for its zero-client-JavaScript footprint, speedy sites, speedy builds, and full control over the output ](https://www.11ty.dev/blog/eleventy-v2-beta/)
+  - [JSON Crack, a JSON visualizer](https://jsoncrack.com/)
