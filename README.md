@@ -45,3 +45,8 @@ a collection of tools and interesting stuff that I'm collecting
   - [Use Firefox for accessibility testing](https://www.a11yproject.com/posts/using-firefox-for-accessibility-testing/)
   - [Javascript developer errors](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
   - [Better programming productivity](https://dev.to/chainguns/better-programming-productivity-techniques-and-attitude-19n)
+  
+- Summer 2023
+  - [Deep Cloning Objects in JavaScript](https://www.builder.io/blog/structured-clone)
+  - [Astro 2.0 ](https://astro.build/blog/astro-2/)
+    - a popular web framework for building performant, content-focused websites. Our next-gen frontend architecture (known as Astro Islands) can optimize your site to load 33% faster with 90% less JavaScript using the UI frameworks you already love like React, Svelte, and Vue.
